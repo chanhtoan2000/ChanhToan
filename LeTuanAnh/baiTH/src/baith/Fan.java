@@ -7,7 +7,6 @@ public class Fan extends ElectricalDevice {
     public Fan(String manufacture, int price, String id, boolean switcher) {
         super(manufacture, price, id, switcher);
     }
-
     public String getSpeed() {
         return speed;
     }

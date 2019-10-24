@@ -21,5 +21,17 @@ class Switcher implements Switchable{
     public void turnOff(){
         
     }
+
+    void addDevice(Cooker noiCom) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    void showDevice() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    void addDevice(Fan mayQuat) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
 
